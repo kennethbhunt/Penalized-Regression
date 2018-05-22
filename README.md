@@ -1,0 +1,2 @@
+# Penalized-Regression
+Data set: winequality.csv Your task is to find the best predictors for the wines quality (quality) from the following 11 variables: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates and alcohol. To that effect, use all of the following techniques: - best subset selection regression - forward and backward stepwise regression - ridge regression - lasso regression - PLS regression Identify the model that provides the best prediction accuracy in the test set.
