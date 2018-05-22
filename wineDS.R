@@ -256,6 +256,6 @@ mse <- mean((pred-wine_test$quality)^2)
 mse
 
 #MSE=0.543
-
+plot(plsr2)
 
 
